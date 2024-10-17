@@ -1,4 +1,4 @@
-# Candy Machine User Interface Setup Guide
+# Candy Machine User Interface Setup Guide 
 
 ## Introduction
 This guide provides a comprehensive walkthrough for configuring the user interface (UI) of your Candy Machine. The UI facilitates NFT minting using the SPL token you've generated, with users utilizing their Phantom wallets for the minting process.
